@@ -12,7 +12,7 @@ public class E_learning_string_concatenation {
 		// Concat is a verb, means connect
 		// String concatenation --> Concat/connect multiple String
 		System.out.println("Janet Yellen, Born in 1946," + " American economist and" + " Chair of the US Federal Reserve, born in Brooklyn, New York");
-		// Generally we don't use like above line 12
+		// Generally we don't use like above line 14
 	}
 
 }
