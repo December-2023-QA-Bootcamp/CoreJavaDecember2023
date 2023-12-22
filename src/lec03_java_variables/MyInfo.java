@@ -40,5 +40,26 @@ public class MyInfo {
 		System.out.println("I am a Constructor from MyInfo Class");
 	}
 	
+	// How to create a method?
+	// This is a void type method
+	// method name generally starts with lower Case 
+	// and follow camel case feature or snake case pattern
+	// Inside the class, method can't be declared  (very important info)
+	// method implemented
+	public void newYork() {
+		System.out.println("I am the newyork method");
+	}
+	
+	// there can be more than one methods inside a class with different name
+	public void city_bus() {
+		System.out.println("I am the city_bus method");
+	}
+	
+	// method name can be same as class name, but in lower case
+	// but, this is not mandatory to make a method name as class name
+	public void myInfo() {
+		System.out.println("I am myInfo method");
+	}
+	
 		
 }

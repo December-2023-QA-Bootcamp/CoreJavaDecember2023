@@ -48,6 +48,26 @@ public class MyInfoTest {
 				+ myInfo.myApartmentRent + "\nYearly Salary: " + myInfo.myYearlySalary + "\nMy Bank Balance: "
 				+ myInfo.myBankBalance + "\nGender: " + myInfo.myGender + "\nMy Height: " + myInfo.myHeight + "\nMy Grade: "
 				+ myInfo.myGrade + "\nAm I US Citizen? Ans: " + myInfo.usCitizen);
+	
+	System.out.println("-------------------------------------------------------------------------------");	
+	// The object can call methods
+	// Here method initialized
+	myInfo.newYork();
+	myInfo.city_bus();
+	myInfo.myInfo();
+	
+	System.out.println("-------------------------------------------------------------------------------");
+	MyInfo myInfo2 = new MyInfo();
+	System.out.println(myInfo2.myName);
+	
+	// yellow highlight means warning! it means object is not used yet
+	MyInfo myInfo3 = new MyInfo();
+	MyInfo myInfo4 = new MyInfo();
+	MyInfo myInfo5 = new MyInfo();
+	MyInfo myInfo6 = new MyInfo();
+	MyInfo myInfo7 = new MyInfo();
+	MyInfo myInfo8 = new MyInfo();
+		
 		
 	}
 	
