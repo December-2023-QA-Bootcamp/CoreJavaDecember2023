@@ -37,6 +37,6 @@ Alternative:
 
  * */
 
-public class Info_java_constructor {
+public class InfoJavaConstructor {
 
 }

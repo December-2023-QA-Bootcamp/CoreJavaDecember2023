@@ -8,7 +8,7 @@ public class UseOfWideningCasting {
 		// By Widening casting, you don't need to write the casting type in parentheses
 		double myNewBankBalance = myBankBalance;
 		System.out.println("My new Bank balance: " + myNewBankBalance);
-		
+
 	}
 
 }
