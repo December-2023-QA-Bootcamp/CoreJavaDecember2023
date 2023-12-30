@@ -39,6 +39,10 @@ public class MyInfoTest {
 		aroah.usCitizen = false;		
 		aroah.myInfo();
 		
+		// here new MyInfo() is the object
+		// but it has a limitation, we can't create more than one object
+		new MyInfo().myName = "Tofael";
+		
 	}
 
 }

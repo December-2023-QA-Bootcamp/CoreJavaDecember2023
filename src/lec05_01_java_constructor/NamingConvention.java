@@ -43,6 +43,12 @@ public class NamingConvention {
 	// because they are are not specific and can cause confusion like the variable below:
 	public String string1 = "String"; // not acceptable or encouraged to use 
 	public int int1;
+	
+	// Constructor name is same as the Class Name
+	// it follows CameCase and snake_case feature like a class
+	public NamingConvention() {
+		System.out.println("I am a Constructor");
+	}
 
 	public static void main(String[] args) {
 		System.out.println("This is all about Naming Convention");
