@@ -13,7 +13,7 @@ public class B_learningVoidTypeMethod {
 	}
 	
 	// HW: Create a void type method subtraction
-	
+	// static and final type method should be discussed here.
 	
 	
 	

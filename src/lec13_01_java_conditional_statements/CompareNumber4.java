@@ -1,4 +1,4 @@
-package lec12_02_java_conditional_statements;
+package lec13_01_java_conditional_statements;
 
 import java.util.Scanner;
 
@@ -25,6 +25,7 @@ If one condition is true and one false, the condition body will be executed
 // Use of logical and operator '&&'
 // Use of logical not '!' -- at line 54
 // If you understand this class, you understand all of today's content
+// We can use more than one condition inside parentheses
 
 public class CompareNumber4 {
 	public static void main(String[] args) {

@@ -2,6 +2,7 @@ package lec07_02_java_different_type_of_class;
 
 import java.util.Scanner;
 
+// TODO Tofael: This will go later and will be short, only the conversion of data type
 public class Use_of_scanner_class01 {
 	public static void main(String[] args) {
 		System.out.println("Please Enter your age here: ");
