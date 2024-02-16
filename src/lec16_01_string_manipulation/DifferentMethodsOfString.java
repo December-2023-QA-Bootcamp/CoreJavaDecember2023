@@ -323,7 +323,7 @@ public class DifferentMethodsOfString {
 		// Arrays is a class, need to import and used to manipulate Array. you can't print Array without the help of Arrays class
     	System.out.println(Arrays.toString(characterByCharacter));
     	
-     
+     // need to learn toArray()
 	}
 
 }
