@@ -1,6 +1,7 @@
 package lec03_java_variables;
 
 public class MyInfo {
+	// Java syntax is the set of rules, how Java programs are constructed
 	// This is a class body
 	// A class body contains first: variables, second: Constructor, third: methods
 	
