@@ -131,7 +131,7 @@ public class Use_of_arrayList_02 {
 		System.out.println(list.size());
 		System.out.println("After using retainAll method the new Array List: \n" + list);
 		
-		
+		// list.add(null); // if null is present, sorting not possible
 		System.out.println("\n------------- Use of sort() -------------");
 		// Collections.sort(List<String> list) -->
         // Sorts the specified list into ascending order, according to the natural ordering of its elements. 
