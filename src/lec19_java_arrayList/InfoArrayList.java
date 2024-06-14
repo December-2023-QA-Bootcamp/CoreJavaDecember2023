@@ -42,7 +42,7 @@ Very very important Info: sort() show exception when null is present
 
 What is the difference between List and Set? or when we use List, when Set*****
 
-       List				          Set
+       List				                             Set
 ------------------------------------------------------------------
       Ordered                  		      Unordered
   Duplicate allowed                     Duplicate not allowed
@@ -60,7 +60,7 @@ What is the difference between ArrayList and LinkedList ? *******
 
 Feature                                 ArrayList                              LinkedList
 Searching                                Faster                                    slower
-    Insertion/deletion                          Slower                                   faster
+Insertion/deletion                    Slower                                   faster
 Direction                                One way                               Both way
 Based on                                 Index                                     Node
 
